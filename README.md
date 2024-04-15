@@ -52,3 +52,6 @@ Algoritmos de ordenação mais antigos, como o Bubble Sort e o Selection Sort, s
 Por outro lado, algoritmos mais avançados, como o Merge Sort e o Quick Sort, são projetados para lidar eficientemente com grandes volumes de dados, sendo ideais para aplicações que requerem velocidade e escalabilidade. Uma comparação entre o Bubble Sort e o Quick Sort ordenando uma lista de 100 mil valores ilustra claramente essa diferença. Enquanto o Bubble Sort leva cerca de 1,26 minutos, o Quick Sort conclui a tarefa em apenas 0,235 minutos, destacando sua superioridade em termos de eficiência e rapidez.
 
 É evidente que o Quick Sort, Merge Sort e Shell Sort são extremamente eficientes e rápidos. Assim, concluindo, existe uma grande diferença entre os algoritmos de ordenação em termos de desempenho, complexidade, complexidade de implementação e outros fatores.
+
+## Contribua para o Repositório:
+Se você estiver interessado em contribuir para este repositório, sua participação é bem-vinda! Você pode bifurcar o repositório para sua própria conta, fazer as alterações desejadas, como adicionar novos algoritmos de classificação ou melhorar os existentes, e, em seguida, enviar uma solicitação pull com suas alterações. Sua contribuição pode ajudar a enriquecer ainda mais o conjunto de algoritmos disponíveis e beneficiar outros desenvolvedores e estudantes que utilizam o repositório.
