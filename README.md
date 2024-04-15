@@ -6,7 +6,7 @@ Este projeto tem como objetivo principal medir o tempo de execução dos algorit
 Uma função foi implementada para retornar o tempo em microssegundos que cada método leva para ordenar vetores de diferentes tamanhos e configurações. Para a medição do tempo, foi utilizada a biblioteca Chrono, disponível na linguagem C++, a qual permite uma medição precisa e confiável do tempo de execução de cada método de ordenação. Essa abordagem permitirá uma análise comparativa detalhada entre os algoritmos, fornecendo dados concretos para o artigo.
 
 ## Algoritmos
-## Bubble Sort
+### Bubble Sort
 É um algoritmo de ordenação simples, este método percorre todo o vetor várias vezes, comparando cada elemento com seu vizinho, levando o maior elemento para o fim da sequência, fazendo isso n vezes até que o vetor esteja ordenado corretamente.
 - Complexidade Computacional: A complexidade computacional do Bubble Sort é de O(n²) no pior caso e no caso médio. No melhor caso, quando a lista já está ordenada, a complexidade é de O(n).
 
