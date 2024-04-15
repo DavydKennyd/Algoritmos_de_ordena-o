@@ -58,6 +58,6 @@ Se você estiver interessado em contribuir para este repositório, sua participa
 
 ## Autores
 Davyd Kennyd Sales da Silva
-[Linkedin](https://www.linkedin.com/in/davyd-kennyd-959526273/ "Linkedin")
+[Linkedin](https://www.linkedin.com/in/davyd-kennyd-959526273/ "Linkedin") <br>
 Welson Rosendo Rodrigues
 [Linkedin](https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/ "Linkedin")
