@@ -55,3 +55,9 @@ Por outro lado, algoritmos mais avançados, como o Merge Sort e o Quick Sort, s�
 
 ## Contribua para o Repositório:
 Se você estiver interessado em contribuir para este repositório, sua participação é bem-vinda! Você pode bifurcar o repositório para sua própria conta, fazer as alterações desejadas, como adicionar novos algoritmos de classificação ou melhorar os existentes, e, em seguida, enviar uma solicitação pull com suas alterações. Sua contribuição pode ajudar a enriquecer ainda mais o conjunto de algoritmos disponíveis e destacar possíveis melhorias ou problemas que tenha encontrado.
+
+## Autores
+Davyd Kennyd Sales da Silva
+[Linkedin](https://www.linkedin.com/in/davyd-kennyd-959526273/ "Linkedin")
+Welson Rosendo Rodrigues
+[Linkedin](https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/ "Linkedin")
