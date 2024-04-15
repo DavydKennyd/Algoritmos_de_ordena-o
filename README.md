@@ -1,5 +1,5 @@
 # Algoritmos de Ordenação:
-----
+
 ## Sobre o Projeto
 Este projeto tem como objetivo principal medir o tempo de execução dos algoritmos de ordenação, como parte de um artigo a ser publicado no Medium, vinculado à disciplina de Estrutura de Dados. O código base foi fornecido pelo professor da disciplina e posteriormente aprimorado por mim e meu colega de trabalho.
 
