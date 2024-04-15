@@ -6,7 +6,7 @@ Este projeto tem como objetivo principal medir o tempo de execução dos algorit
 Uma função foi implementada para retornar o tempo em microssegundos que cada método leva para ordenar vetores de diferentes tamanhos e configurações. Para a medição do tempo, foi utilizada a biblioteca Chrono, disponível na linguagem C++, a qual permite uma medição precisa e confiável do tempo de execução de cada método de ordenação. Essa abordagem permitirá uma análise comparativa detalhada entre os algoritmos, fornecendo dados concretos para o artigo.
 
 ## Bibliotecas do c++ utilizadas
-[vector](https://cplusplus.com/reference/vector/vector/ "vector")
+[vector](https://cplusplus.com/reference/vector/vector/ "vector")<br>
 [random](https://learn.microsoft.com/pt-br/cpp/standard-library/random?view=msvc-170 "random")
 [chrono](https://learn.microsoft.com/pt-br/cpp/standard-library/chrono-functions?view=msvc-170 "chrono")
 
