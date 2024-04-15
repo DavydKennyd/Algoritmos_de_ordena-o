@@ -41,7 +41,12 @@ Adaptando um código fornecido pelo nosso professor de Estruturas de Dados para 
 
 Para garantir uma avaliação precisa, cada algoritmo foi executado cinco vezes em cada conjunto de dados. Isso nos permitiu calcular a média e o desvio padrão do tempo de execução de cada algoritmo. É importante destacar que registramos o tempo de execução em microssegundos e, posteriormente, convertemos esses valores para segundos, fornecendo uma medida mais compreensível para análise e comparação. O tempo necessário para ordenar cada vetor foi registrado numa planilha do Excel onde explicaremos melhor nos resultados.
 
-# Análise dos Resultados
+## Análise dos Resultados
 Após a obtenção dos resultados, foi elaborada uma planilha no Excel para registrar os dados de desempenho de cada método de ordenação. Cada método foi executado cinco vezes, e a média dos tempos de execução foi calculada para uma análise mais precisa. Essa abordagem permitirá a identificação do método que apresenta o melhor desempenho em termos de tempo de execução.
 
 Além disso, a comparação dos resultados obtidos permitirá a identificação das vantagens e desvantagens de cada algoritmo de ordenação. Essa análise detalhada contribuirá para uma melhor compreensão dos diferentes métodos e auxiliará na escolha do mais adequado para cada situação.
+
+## Conclusão
+Os algoritmos de ordenação mais antigos, como o Bubble Sort e o Selection Sort, são frequentemente utilizados por sua simplicidade e facilidade de implementação, sendo úteis em contextos educacionais e para manipulação de conjuntos de dados menores. No entanto, à medida que o tamanho dos dados aumenta, a complexidade desses algoritmos se torna um grande obstáculo para o desempenho, tornando-os inadequados para lidar com conjuntos de dados em larga escala.
+
+Por outro lado, algoritmos mais avançados, como o Merge Sort e o Quick Sort, são projetados para lidar eficientemente com grandes volumes de dados, tornando-os ideais para aplicações que exigem velocidade e escalabilidade. A análise dos resultados demonstra claramente as diferenças de desempenho entre esses algoritmos. Uma comparação direta entre o Bubble Sort e o Quick Sort, ao ordenar uma lista com 100 mil valores, ilustra essa distinção. Enquanto o Bubble Sort requer aproximadamente 1,26 minutos para concluir a tarefa, o Quick Sort demonstra sua agilidade, necessitando apenas de cerca de 0,235 minutos. Essa disparidade evidencia a superioridade do Quick Sort em termos de eficiência e rapidez em comparação com o Bubble Sort.
