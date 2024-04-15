@@ -36,8 +36,12 @@ O quick sort é um dos algoritmos de ordenação mais eficientes e amplamente ut
 O merge sort é outro algoritmo de ordenação eficiente que utiliza a abordagem de divisão e conquista. Ele divide recursivamente a lista não ordenada em metades iguais, ordena cada metade separadamente e, em seguida, combina as duas metades ordenadas para produzir a lista final ordenada.
 - Complexidade Computacional: A complexidade computacional do Merge Sort é sempre O(n log n), independentemente da distribuição dos elementos no conjunto de dados ou do tamanho da lista.
 
-# Análise dos Resultados
+## Como funciona
+Adaptando um código fornecido pelo nosso professor de Estruturas de Dados para gerar números aleatórios variando de 1 a 100. Cada algoritmo foi submetido a testes extensivos, utilizando vetores de dados de diversos tamanhos e naturezas. Nossos conjuntos de dados abrangem dimensões que variam de 1000 até um limite determinado pelo desempenho computacional, incluindo tamanhos como 10000, 30000, 50000, 70000 e 100000, até onde as capacidades computacionais do sistema permitirem.
 
+Para garantir uma avaliação precisa, cada algoritmo foi executado cinco vezes em cada conjunto de dados. Isso nos permitiu calcular a média e o desvio padrão do tempo de execução de cada algoritmo. É importante destacar que registramos o tempo de execução em microssegundos e, posteriormente, convertemos esses valores para segundos, fornecendo uma medida mais compreensível para análise e comparação.
+
+# Análise dos Resultados
 Após a obtenção dos resultados, foi elaborada uma planilha no Excel para registrar os dados de desempenho de cada método de ordenação. Cada método foi executado cinco vezes, e a média dos tempos de execução foi calculada para uma análise mais precisa. Essa abordagem permitirá a identificação do método que apresenta o melhor desempenho em termos de tempo de execução.
 
 Além disso, a comparação dos resultados obtidos permitirá a identificação das vantagens e desvantagens de cada algoritmo de ordenação. Essa análise detalhada contribuirá para uma melhor compreensão dos diferentes métodos e auxiliará na escolha do mais adequado para cada situação.
